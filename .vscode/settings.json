@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "tftlcd.h": "c",
+        "map.h": "c",
+        "system.h": "c",
+        "stdio.h": "c",
+        "beep.h": "c",
+        "stdlib.h": "c"
+    }
+}
