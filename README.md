@@ -20,4 +20,8 @@
 - QQ: 2645132058
 - 邮箱: 同上
 
+## 运行结果图片
+![alt text](image.png)
+![alt text](image-1.png)
+
 项目可以参考STM32的文档《普中STM32F4xx开发攻略_V3.0--标准库版》。
